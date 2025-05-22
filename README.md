@@ -35,6 +35,6 @@
 </div>
 
 ## 🤔 Github Stats
-![LJH09's GitHub stats](https://github-readme-stats-teal-delta.vercel.app/api?username=dlwlsgur0909&count_private=true&show_icons=true&theme=dracula)
+![LJH09's GitHub stats](https://github-readme-stats-teal-delta.vercel.app/api?username=dlwlsgur0909&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats-teal-delta.vercel.app/api/top-langs/?username=dlwlsgur0909&size_weight=0.5&count_weight=0.5&hide=html,scss)
