@@ -8,10 +8,10 @@
  <img src="https://img.shields.io/badge/java-FFA500.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />
 </div>
 <div>
- <img src="https://img.shields.io/badge/sprint-00FF7F .svg?style=for-the-badge&logo=spring&logoColor=fff " />
- <img src="https://img.shields.io/badge/spring security-00FF7F .svg?style=for-the-badge&logo=springsecurity&logoColor=fff " />
- <img src="https://img.shields.io/badge/spring boot-00FF7F .svg?style=for-the-badge&logo=springboot&logoColor=fff " />
- <img src="https://img.shields.io/badge/spring data-00FF7F .svg?style=for-the-badge&logo=&logoColor=fff " />
+ <img src="https://img.shields.io/badge/spring-00FF7F.svg?style=for-the-badge&logo=spring&logoColor=fff " />
+ <img src="https://img.shields.io/badge/spring security-00FF7F.svg?style=for-the-badge&logo=springsecurity&logoColor=fff " />
+ <img src="https://img.shields.io/badge/spring boot-00FF7F.svg?style=for-the-badge&logo=springboot&logoColor=fff " />
+ <img src="https://img.shields.io/badge/spring data-00FF7F.svg?style=for-the-badge&logo=&logoColor=fff " />
 </div>
 
 ### FrontEnd
